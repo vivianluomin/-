@@ -1,10 +1,10 @@
-package 算法训练;
+
 
 
 
 import java.util.Scanner;
 
-public class 地牢问题 {
+public class  鍦扮墷闂 {
 
 	public static void main(String[] args) {
 		

@@ -1,4 +1,3 @@
-package Ëã·¨ÑµÁ·;
 
 import java.util.ArrayList;
 
@@ -12,7 +11,7 @@ class student{
 	}
 }
 
-public class ºÏ³ªÍÅ {
+public class åˆå”±å›¢ {
 	
 
 	public static long MAX_VALUE = Long.MAX_VALUE;
@@ -34,7 +33,7 @@ public class ºÏ³ªÍÅ {
 		int n = in.nextInt();
 		long abil;
 		
-		//ÊäÈëÊı¾İ
+
 		for(int i = 0;i<n;i++){
 			abil = in.nextLong();
 			student s = new student(abil);
@@ -45,8 +44,7 @@ public class ºÏ³ªÍÅ {
 		int k = in.nextInt();
 		int d = in.nextInt();
 		
-		//Î¬»¤µÄÁ½¸ö×î´óÖµºÍ×îĞ¡ÖµµÄÊı×é£¬k±íÊ¾Ñ¡Ôñ¼¸¸öÑ§Éú£¬n±íÊ¾µÚk¸öÑ¡È¡µÄÑ§Éú
-		//ËùÒÔfMax[k][n]µÄ³Ë»ı¾ÍÊÇÑ¡Ôñk¸öÑ§ÉúÇÒµÚk¸öÑ§ÉúÊÇnµÄÊ±ºòµÄ×î´óÖµ
+
 		long [][] fMax = new long[k][n];
 		long [][] fMin = new long[k][n];
 		long Max = MIN_VALUE;
@@ -60,7 +58,7 @@ public class ºÏ³ªÍÅ {
 		}
 		
 		
-		//³õÊ¼»¯Ñ¡È¡Ò»¸öµÄÊ±ºòµÄ×î´ó×îĞ¡Öµ
+
 		for(int i = 0 ;i<n;i++){
 			fMax[0][i] = lits.get(i).ability;
 			fMin[0][i] = lits.get(i).ability;
@@ -72,8 +70,7 @@ public class ºÏ³ªÍÅ {
 				long max = MIN_VALUE;
 				long min = MAX_VALUE;
 				long temp;
-				//ÔÚjµÄd·¶Î§ÄÚ¿ÉÒÔÑ¡È¡µÄÇ°i-1¸öµÄ×î´óÖµ
-				//ÒòÎª³Ë·¨½»»»ÂÉ£¬ËùÒÔÃ¿´ÎÖ»¿¼ÂÇµ±Ç°ÔªËØµÄ×ó²àÓĞĞ§·¶Î§
+
 				for(int t = Math.max(i-1, j-d);t<j;t++){
 					temp = Math.max(fMax[i-1][t]*lits.get(j).ability, fMin[i-1][t]*lits.get(j).ability);
 					if(max<temp){

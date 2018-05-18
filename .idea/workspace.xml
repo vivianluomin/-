@@ -1,7 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76dc3e80-a9ce-47dc-a011-3bbca2a598ec" name="Default" comment="" />
+    <list default="true" id="76dc3e80-a9ce-47dc-a011-3bbca2a598ec" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/分苹果.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/ChatterClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/ChatterServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/Dgram.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/JabberClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/JabberClientThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/JabberServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/MultiJabberClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/MultiJabberServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Socket/F/ServerOneJabber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/TestGson/LargeData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Thread/f/Counter4$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Thread/f/Counter4$StartL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Thread/f/Counter4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Thread/f/Daemon.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Thread/f/DaemonSpawn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Thread/f/Daemons.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Thread/f/Ticker$ToggleL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/Thread/f/Ticker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/ArraySize.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/AssocArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/CatsAndDogs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Collection1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Compare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Enumeration2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Groundhog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Hamster.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/HamsterMaze.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/IceCream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/ListPerformance$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/ListPerformance$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/ListPerformance$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/ListPerformance$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/ListPerformance$Tester.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/ListPerformance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Mouse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/MouseTrap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Prediction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/PrintData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Printer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Set1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/SortVector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/SpringDetector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Stacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/StringSortTest$StringCompare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/StringSortTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/Weeble.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/practicedemo/WorksAnyway.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/serializable/F/Data.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/serializable/F/Worm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/tese/F/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/tese/F/B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/tese/F/C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/tese/F/D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/tese/F/FileCopy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/tese/F/Student.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/tese/F/dsa.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/代理模式实现西门庆/JiaShi.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/代理模式实现西门庆/PanJinLain.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/代理模式实现西门庆/WangPo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/代理模式实现西门庆/Women.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/代理模式实现西门庆/xiMenQing.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/适配器实现电器转换/Adapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/适配器实现电器转换/ChineseApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/适配器实现电器转换/ChineseSocket.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/适配器实现电器转换/ForeignApp.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CreateHuiWen.java" afterPath="$PROJECT_DIR$/src/CreateHuiWen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/二维数组查找.java" afterPath="$PROJECT_DIR$/src/二维数组查找.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/合唱团.java" afterPath="$PROJECT_DIR$/src/合唱团.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/地牢问题.java" afterPath="$PROJECT_DIR$/src/地牢问题.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/汉诺塔.java" afterPath="$PROJECT_DIR$/src/汉诺塔.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,23 +88,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="分田地.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/分田地.java">
+      <file leaf-file-name="分苹果.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/分苹果.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="397">
+              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".classpath" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.classpath">
+      <file leaf-file-name="Math.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/jre/lib/rt.jar!/java/lang/Math.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="7031">
+              <caret line="253" column="22" lean-forward="false" selection-start-line="253" selection-start-column="22" selection-end-line="253" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -43,6 +117,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -53,6 +130,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/下厨房.java" />
         <option value="$PROJECT_DIR$/src/分田地.java" />
+        <option value="$PROJECT_DIR$/src/合唱团.java" />
+        <option value="$PROJECT_DIR$/src/CreateHuiWen.java" />
+        <option value="$PROJECT_DIR$/src/汉诺塔.java" />
+        <option value="$PROJECT_DIR$/src/二维数组查找.java" />
+        <option value="$PROJECT_DIR$/src/地牢问题.java" />
+        <option value="C:/Program Files/Java/jdk1.8.0_112/jre/lib/rt.jar!/java/lang/Math.class" />
+        <option value="$PROJECT_DIR$/src/分苹果.java" />
       </list>
     </option>
   </component>
@@ -62,6 +146,7 @@
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -111,10 +196,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.分田地">
+  <component name="RunManager" selected="Application.分苹果">
     <configuration name="分田地" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="分田地" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Practice" />
+      <envs />
+    </configuration>
+    <configuration name="分苹果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="分苹果" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -207,9 +306,14 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.分田地" />
+      <item index="1" class="java.lang.String" itemvalue="Application.分苹果" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.分田地" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.分苹果" />
+        <item index="1" class="java.lang.String" itemvalue="Application.分田地" />
       </list>
     </recent_temporary>
   </component>
@@ -228,31 +332,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38274336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3318584" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933628" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -261,7 +366,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="58" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -315,21 +422,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/适配器实现电器转换/ChineseApp.java" />
     <entry file="file://$PROJECT_DIR$/src/下厨房.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="333">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/适配器实现电器转换/ChineseApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/二维数组查找.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/地牢问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/分田地.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="166">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -340,6 +463,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/合唱团.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateHuiWen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2288">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/汉诺塔.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/jre/lib/rt.jar!/java/lang/Math.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7031">
+          <caret line="253" column="22" lean-forward="false" selection-start-line="253" selection-start-column="22" selection-end-line="253" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/分苹果.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
           <folding />
         </state>
       </provider>

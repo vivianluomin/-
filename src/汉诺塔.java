@@ -1,6 +1,6 @@
-package Ëã·¨ÑµÁ·;
 
-public class ººÅµËþ {
+
+public class æ±‰è¯ºå¡” {
 
 	public static void main(String[] args) {
 		int[] A = {0,1,2,3};
@@ -20,7 +20,7 @@ public class ººÅµËþ {
 		}else{
 			HanoiTower(A,C,B,n-1);
 			C[n]=A[n];
-			System.out.println("ÓÉA->C,"+C[n]);
+			System.out.println("ï¿½ï¿½A->C,"+C[n]);
 			HanoiTower(B,A,C,n-1);
 			
 		}

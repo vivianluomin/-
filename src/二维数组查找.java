@@ -1,6 +1,6 @@
-package 算法训练;
 
-public class 二维数组查找 {
+
+public class 浜岀淮鏁扮粍鏌ユ壘 {
 
 	public static void main(String[] args) {
 		
